@@ -1,0 +1,3 @@
+[submodule "ECDSA-Exchange"]
+	path = ECDSA-Exchange
+	url = https://github.com/ChainShot/ECDSA-Exchange.git
